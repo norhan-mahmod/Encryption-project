@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\level 3\second semester\cryptography\search program\search_program\search_program\Source.cpp(103,28): warning C4018: '<': signed/unsigned mismatch
+E:\level 3\second semester\cryptography\search program\search_program\search_program\Source.cpp(121,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\level 3\second semester\cryptography\search program\search_program\search_program\Source.cpp(44): warning C4715: 'indexOf': not all control paths return a value
+  search_program.vcxproj -> E:\level 3\second semester\cryptography\search program\search_program\Debug\search_program.exe
